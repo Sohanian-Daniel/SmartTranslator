@@ -1,0 +1,21 @@
+{
+	"word": "sare",
+	"word_en": "salt",
+	"type": "noun",
+	"singular": ["sare"],
+	"plural": ["săruri"],
+	"definitions": [
+		{
+			"dict": "Sinonime (2002)",
+			"dictType": "synonyms",
+			"year": 2002,
+			"text": ["duh", "haz", "umor", "spirit"]
+		},
+		{
+			"dict": "DEX '09 (2009)",
+			"dictType": "definitions",
+			"year": 2009,
+			"text": ["Substanță cristalină, sfărâmicioasă, solubilă în apă și cu gust specific, care constituie un condiment de bază în alimentație și este folosită în industria conservelor, în tăbăcărie, în industria chimică etc.; clorură de sodiu."]
+		}
+		]
+}

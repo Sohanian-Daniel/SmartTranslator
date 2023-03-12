@@ -1,0 +1,21 @@
+{
+	"word": "joc",
+	"word_en": "game",
+	"type": "noun",
+	"singular": ["joc"],
+	"plural": ["jocuri"],
+	"definitions": [
+		{
+			"dict": "Sinonime (2002)",
+			"dictType": "synonyms",
+			"year": 2002,
+			"text": ["amuzament", "dans", "activitate ludica", "divertisment"]
+		},
+		{
+			"dict": "DEX '09 (2009)",
+			"dictType": "definitions",
+			"year": 2009,
+			"text": ["Acțiunea de a se juca.", "Activitate distractivă.", "Dans popular."]
+		}
+		]
+}
